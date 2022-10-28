@@ -44,13 +44,13 @@ p {
 }
 
 body {
-	cursor: url(/img/cheeze_cursor.png), auto;
+	cursor: url(img/cheeze_cursor.png), auto;
 }
 
 /* header
 ---------------------*/
 .header_image {
-	background: url(/img/mainbg.png);
+	background: url(img/mainbg.png);
 	height: 500px;
 	display: flex;
 	align-items: center;
